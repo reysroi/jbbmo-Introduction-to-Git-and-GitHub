@@ -13,4 +13,6 @@ Output
    simple interest = p*t*r
 ```
 
-_© 2022 XYZ, Inc._
+_© 2024 XYZ, Inc._
+
+"Lets us alll heal the World. We are more alike than we are different." - ReysRoi
